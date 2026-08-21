@@ -53,14 +53,38 @@ if status then
 end
 
 ```
+---
+
+## 💝 Support the Project
+
+> *This plugin is built entirely on developer insights gathered over **years of building real-world software** to catch common pain points, combined with **months of dedicated building and rigorous testing** to ensure it operates flawlessly.*
+
+If this utility boosts your everyday speed and eliminates annoying file search clutter, please consider buying me a coffee or supporting my continuous maintenance!
+
+You can tip or donate directly to my **TRON (TRX / USDT-TRC20)** crypto wallet address:
+
+```text
+TAFFjBP39Z86weL5dDU1A2251VrgPprDUj
+```
+
+> *Every bit of support fuels the expansion of this ecosystem and helps me write cleaner tools for all of us. Thank you for standing behind independent developers!* 🙏
+
+---
+
+## 🤝 Let's Build Together (Connect With Me)
+
+I love building open-source tools that optimize development workflows. If you have an idea, want to collaborate on a feature, or just talk code, let's connect:
+
+- **X (Twitter)**: [https://x.com/janecodelife](https://x.com/janecodelife) — Best for quick chats, feature suggestions, and open-source updates.
+- **YouTube**: [https://www.youtube.com/@JaneCodeLife](https://www.youtube.com/@JaneCodeLife) — Where I share video tutorials on Neovim configurations and web ecosystem stacks.
+
+---
 
 ## 🔗 My Other Plugins
 
 Check out my other open-source tools to supercharge your Neovim environment:
 - **[livewire-secure-properties](https://github.com/janecodelife/livewire-secure-properties)** - Secure livewire app properties by default and void headache.
 - **[todo-tracker.nvim](https://github.com/janecodelife/todo-tracker.nvim)** - Assign and list app todos in a blink
-
-
 ---
 
 
@@ -71,15 +95,4 @@ We are actively working to make this plugin even more powerful! Here is what's o
 - [ ] **Context-Aware Pickers**: Show/hide bookmarks dynamically based on the current filetype or detected framework.
 - [ ] **Fzf-lua Support**: Out-of-the-box integration for users who prefer `fzf-lua` over Telescope.
 
----
-
-## 💝 Support the Project
-
-If this plugin saves you time and improves your daily development workflow, consider buying me a coffee or supporting my open-source work! 
-
-You can tip or donate directly to my **TRON (TRX / USDT-TRC20)** crypto wallet address:
-
-`ضع_هنا_عنوان_محفظة_الترون_الخاصة_بcurrent_user`
-
-> *Every contribution helps keep the maintenance alive and fuels the development of future Neovim utilities! Thank you for your support!* 🙏
 
