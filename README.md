@@ -3,8 +3,8 @@
 [![Follow on X](https://img.shields.io/badge/Follow-@janecodelife-000000?style=for-the-badge&logo=x)](https://x.com/janecodelife)
 [![Subscribe on YouTube](https://img.shields.io/badge/Subscribe-@JaneCodeLife-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@JaneCodeLife)
 
-A lightweight, blazing-fast, and highly customizable. It allows you to set scoped "bookmarks" for your favorite or frequently accessed directories in any project, ensuring fast navigation with clean 
-Easy bookmark mutiple folders and easy accessing them in a blink
+A lightweight, blazing-fast, and highly customizable.
+Manage Workspace Project Folders With Keymaps Shortcuts (Support All Kinds Of Projects).
 
 ---
 
@@ -52,6 +52,16 @@ if status then
 end
 
 ```
+
+---
+
+## Demo Video 📺
+
+<p align="center">
+  <img src="assets/folders-bookmark.gif" alt="folders-bookmark-video" width="100%">
+</p>
+
+
 ---
 
 ## 💝 Support the Project

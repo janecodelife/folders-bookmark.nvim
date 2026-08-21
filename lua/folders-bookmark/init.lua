@@ -1,11 +1,9 @@
 local M = {}
 
--- الإعدادات الافتراضية
 M.config = {
 	bookmarks = {},
 }
 
--- دالة داخلية عامة لبناء واجهة لـ Telescope لأي Bookmark
 local function launch_bookmark_picker(title, folder_path, extension_pattern)
 	local has_telescope, pickers = pcall(require, "telescope.pickers")
 	if not has_telescope then
@@ -19,19 +17,16 @@ local function launch_bookmark_picker(title, folder_path, extension_pattern)
 	local action_state = require("telescope.actions.state")
 	local entry_display = require("telescope.pickers.entry_display")
 
-	-- التحقق من وجود إضافة الأيقونات لجمالية العرض
 	local has_devicons, devicons = pcall(require, "nvim-web-devicons")
 
 	local cwd = vim.fn.getcwd()
 	local full_target_dir = cwd .. folder_path
 
-	-- التحقق من وجود المجلد المرجعي في المشروع الحالي
 	if vim.fn.isdirectory(full_target_dir) == 0 then
 		vim.notify("Bookmarked directory not found in this project: " .. folder_path, vim.log.levels.WARN)
 		return
 	end
 
-	-- بناء أمر البحث بناءً على الفلتر المختار
 	local ext_flag = ""
 	if extension_pattern then
 		ext_flag = " -name '" .. extension_pattern .. "'"
@@ -50,7 +45,6 @@ local function launch_bookmark_picker(title, folder_path, extension_pattern)
 		table.insert(files, file)
 	end
 
-	-- تهيئة أعمدة واجهة التصفح
 	local displayer = entry_display.create({
 		separator = "  ",
 		items = {
@@ -82,7 +76,6 @@ local function launch_bookmark_picker(title, folder_path, extension_pattern)
 					local safe_cwd = cwd:gsub("([^%w])", "%%%1")
 					local relative_to_project = absolute_file_path:gsub(safe_cwd .. "/", "")
 
-					-- جلب أيقونة الملف ديناميكياً بناءً على امتداده
 					local icon = "  "
 					local icon_hl = "DevIconDefault"
 					if has_devicons then
@@ -121,7 +114,6 @@ local function launch_bookmark_picker(title, folder_path, extension_pattern)
 		:find()
 end
 
--- دالة التفعيل وإنشاء الـ Keymaps ديناميكياً
 M.setup = function(opts)
 	M.config = vim.tbl_deep_extend("force", M.config, opts or {})
 
