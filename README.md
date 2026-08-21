@@ -61,7 +61,7 @@ end
 If this utility boosts your everyday speed and eliminates annoying file search clutter, please consider buying me a coffee or supporting my continuous maintenance!
 
 You can tip or donate directly to my **TRON (TRX / USDT-TRC20)** crypto wallet address:
-### ☕☕☕☕ Support me by coffee via USDT ☕☕☕☕
+## ☕☕☕☕ Support Me By Coffee Via USDT ☕☕☕☕
 
 - **Network:** `TRX Tron (TRC20)`
 - **Address:** `TAFFjBP39Z86weL5dDU1A2251VrgPprDUj`
