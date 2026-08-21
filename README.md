@@ -10,7 +10,6 @@ Easy bookmark mutiple folders and easy accessing them in a blink
 
 ## 📦 Requirements
 
-- Neovim >= 0.9.0
 - [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
 
 ---
@@ -62,21 +61,21 @@ end
 If this utility boosts your everyday speed and eliminates annoying file search clutter, please consider buying me a coffee or supporting my continuous maintenance!
 
 You can tip or donate directly to my **TRON (TRX / USDT-TRC20)** crypto wallet address:
+### ☕☕☕☕ Support me by coffee via USDT ☕☕☕☕
 
-```text
-TAFFjBP39Z86weL5dDU1A2251VrgPprDUj
-```
+- **Network:** `TRX Tron (TRC20)`
+- **Address:** `TAFFjBP39Z86weL5dDU1A2251VrgPprDUj`
 
 > *Every bit of support fuels the expansion of this ecosystem and helps me write cleaner tools for all of us. Thank you for standing behind independent developers!* 🙏
 
 ---
 
-## 🤝 Let's Build Together (Connect With Me)
+## 🤝 Let's Build Together (Contact Me)
 
-I love building open-source tools that optimize development workflows. If you have an idea, want to collaborate on a feature, or just talk code, let's connect:
+I will be there i am answer to all messages
 
-- **X (Twitter)**: [https://x.com/janecodelife](https://x.com/janecodelife) — Best for quick chats, feature suggestions, and open-source updates.
-- **YouTube**: [https://www.youtube.com/@JaneCodeLife](https://www.youtube.com/@JaneCodeLife) — Where I share video tutorials on Neovim configurations and web ecosystem stacks.
+- **X (Twitter)**: [https://x.com/janecodelife](https://x.com/janecodelife)
+- **YouTube**: [https://www.youtube.com/@JaneCodeLife](https://www.youtube.com/@JaneCodeLife) 
 
 ---
 
@@ -85,14 +84,16 @@ I love building open-source tools that optimize development workflows. If you ha
 Check out my other open-source tools to supercharge your Neovim environment:
 - **[livewire-secure-properties](https://github.com/janecodelife/livewire-secure-properties)** - Secure livewire app properties by default and void headache.
 - **[todo-tracker.nvim](https://github.com/janecodelife/todo-tracker.nvim)** - Assign and list app todos in a blink
+- **[folders-bookmark.nvim](https://github.com/janecodelife/folders-bookmark.nvim)** - Bookmark folders and accessing them by keymap in a blink
 ---
 
 
-## 🛠️ Upcoming Features (Coming Soon)
+## Upcoming 🚀 (Stay Tuned!)
 
-We are actively working to make this plugin even more powerful! Here is what's on the roadmap:
-- [ ] **Dynamic Global Bookmarks**: Ability to bookmark files/folders on the fly across different projects.
-- [ ] **Context-Aware Pickers**: Show/hide bookmarks dynamically based on the current filetype or detected framework.
-- [ ] **Fzf-lua Support**: Out-of-the-box integration for users who prefer `fzf-lua` over Telescope.
+### The Ultimate Neovim Config for Modern Web & Laravel Devs ⚡
 
+I am currently cooking a comprehensive guide and boilerplate configuration on **How to turn Neovim into a (Powerful) IDE** explicitly optimized for:
 
+- **Backend & Frameworks**: PHP (Intelephense) & Full Laravel & Livewire Integration (With Preformance)
+- **Frontend & Tooling**: HTML, CSS, JavaScript, TypeScript, and Livewire SFCs
+- **Speed**: Blazing fast autocompletion, lightning-speed code navigation, and fuzzy finding.
