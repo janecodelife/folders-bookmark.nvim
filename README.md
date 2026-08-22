@@ -55,12 +55,11 @@ end
 
 ---
 
-## Demo Video 📺
+## Video 📺
 
 <p align="center">
   <img src="assets/folders-bookmark.gif" alt="folders-bookmark-video" width="100%">
 </p>
-
 
 ---
 
