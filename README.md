@@ -61,6 +61,10 @@ end
   <img src="assets/folders-bookmark.gif" alt="folders-bookmark-video" width="100%">
 </p>
 
+or in 
+
+- **YouTube**: [https://www.youtube.com/@JaneCodeLife](https://www.youtube.com/@JaneCodeLife) 
+
 ---
 
 ## 💝 Support the Project
