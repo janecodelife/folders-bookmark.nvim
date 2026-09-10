@@ -7,7 +7,7 @@ A lightweight, blazing-fast, and highly customizable.
 Manage Workspace Project Folders With Keymaps Shortcuts (Support All Kinds Of Projects).
 --- 
 
-Support me by the only available way now: USDT to buy a new dev laptop. Info is below, 
+💝 Support me by the only available way now: USDT to buy a new dev laptop. Info is below, 
 or contact me by 📩 email: janecodelife@gmail.com
 
 ---
