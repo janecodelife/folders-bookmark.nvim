@@ -63,13 +63,13 @@ end
 
 ## Video 📺
 
-<p align="center">
-  <img src="assets/folders-bookmark.gif" alt="folders-bookmark-video" width="100%">
-</p>
+<!-- <p align="center"> -->
+<!--   <img src="assets/folders-bookmark.gif" alt="folders-bookmark-video" width="100%"> -->
+<!-- </p> -->
 
-or in 
 
-- **YouTube**: [https://www.youtube.com/watch?v=ALhjanZ3Yzc](https://www.youtube.com/watch?v=ALhjanZ3Yzc) 
+[![Watch the video](./assets/folders-bookmark.png)](https://www.youtube.com/watch?v=ALhjanZ3Yzc)
+
 
 ---
 
